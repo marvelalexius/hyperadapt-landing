@@ -1,0 +1,66 @@
+.bg-image {
+  background-image: url("../images/nike-hyperadapt-1.0-wolf-grey-1024x543.jpg");
+  background-size: cover;
+}
+
+.no-bg {
+  background: none !important;
+}
+
+.navbar-brand img {
+  width: 100px;
+  height: auto;
+}
+
+.navbar-nav.nav-link {
+  color: white;
+}
+
+.navbar-nav.nav-link:hover {
+  color: blue;
+}
+
+.text-white {
+  color: white;
+}
+
+.jumbotron {
+  min-height: 500px;
+}
+
+.middle-text-sm {
+  padding: 3.5em;
+}
+
+.middle-text {
+  padding: 7em 0;
+}
+
+.middle-text-3 {
+  padding: 15em 0;
+}
+
+.second-bg {
+  background-image: url("../images/HyperAdapt_Innovation_CDP_P2.jpg");
+  background-size: cover; 
+}
+
+.third-bg {
+  background-image: url("../images/HyperAdapt_Innovation_CDP_P3.jpg");
+  background-size: cover; 
+}
+
+.fourth-bg {
+  background-image: url("../images/HyperAdapt_Innovation_CDP_P4.jpg");
+  background-size: cover; 
+}
+
+.black-bg {
+  background: #000000;
+}
+
+.button-max-lg {
+  width: 700px;
+  padding: 20px;
+  font-size: 30px;
+}
